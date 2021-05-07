@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<embed type="text/html" src="https://basicallydan.github.io/skifree.js/" width="500" height="200">
+
+<embed type="js" src="https://basicallydan.github.io/skifree.js/" width="500" height="200">
