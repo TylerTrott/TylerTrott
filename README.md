@@ -21,7 +21,7 @@ Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email
 
 </br>
 
-Feel free to also check out my LinkedIn!
+Check out my LinkedIn!
 
 <a href="https://www.linkedin.com/in/tyler-t-b307b0107/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
