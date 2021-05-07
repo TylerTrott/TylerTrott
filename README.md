@@ -3,8 +3,10 @@
 </div>
 
 <div align="center" width="50">
+  
+<blockquote class="imgur-embed-pub" lang="en" data-id="OU0VNaE"><a href="https://imgur.com/OU0VNaE">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src="https://imgur.com/OU0VNaE" alt="Welcome!" width="300"/>
+<--! <img src="https://imgur.com/OU0VNaE" alt="Welcome!" width="300"/> -->
 
 </div>
 
