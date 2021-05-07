@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://imgur.com/OU0VNaE" alt="Welcome!" width="300"/>
+![](_welcome.gif)
 
 </div>
 
