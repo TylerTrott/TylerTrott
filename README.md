@@ -21,6 +21,15 @@ Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email
 
 </br>
 
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TylerTrott&theme=dark&show_icons=true" alt="TylerStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerTrott&layout=compact&theme=dark" alt="top-langs" />
+</p>
+
+
 Check out my LinkedIn!
 
 <a href="https://www.linkedin.com/in/tyler-t-b307b0107/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
