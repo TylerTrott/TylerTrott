@@ -11,7 +11,7 @@
 <div align="center">
 
 Looks like you've stumbled upon my Github profile. <br>
-Feel free to contact me at my <a href="mailto:tyler.trott@atsign.com"><b>email</b></a> me
+Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email</b></a>
 
 <i>Happy Coding!</i> 😊
 
