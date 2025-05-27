@@ -9,21 +9,8 @@
 </div>
 
 <div align="center">
-  
-  <p align="center">
-  <a href="https://discord.gg/TpGPHQcK3G">
-   <img src="https://img.shields.io/discord/778383211214536722?label=Join%20The @%20Community&style=appveyor&logo=discord&color=orange">
-   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=atsigncompany">
-    <img src="https://img.shields.io/twitter/follow/atsigncompany?style=social" />
-  </a>
-     <a href="https://twitter.com/intent/follow?screen_name=wildgreen17">
-    <img src="https://img.shields.io/twitter/follow/wildgreen17?style=social" />
-  </a>
-</p>
 
 Looks like you've stumbled upon my Github profile. <br>
-Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email</b></a>
 
 <i>Happy Coding!</i> 😊
 
